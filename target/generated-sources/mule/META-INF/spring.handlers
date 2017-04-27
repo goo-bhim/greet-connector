@@ -1,0 +1,1 @@
+http\://www.mulesoft.org/schema/mule/greet=org.mule.modules.greet.generated.config.GreetNamespaceHandler

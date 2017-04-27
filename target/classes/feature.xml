@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><feature id="org.mule.tooling.ui.extension.greet-connector.3.5.0" label="Greet Connector (Mule 3.5.0+)" provider-name="Mulesoft, Inc." version="1.0.0.201704262211"><license/><plugin download-size="0" id="org.mule.tooling.ui.contribution.greet.3.5.0" install-size="0" unpack="true" version="1.0.0.201704262211"/></feature>
